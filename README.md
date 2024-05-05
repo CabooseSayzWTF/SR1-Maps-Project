@@ -75,3 +75,5 @@ Low Rez Downtown = Will have to be completely custom....<br>
 Penthouse = Done, already in cts<br>
 Raykins Whorehouse (Change name to Raykins Hotel) = Idk, go in game or add random shit<br>
 Open Legs Lodge = Idk, add sex sounds ig<br>
+Highway Factory = Done, already in cts<br>
+Wardrobe = Done, prob leave how it is or add music
