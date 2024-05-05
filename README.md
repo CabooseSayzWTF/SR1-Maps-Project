@@ -1,4 +1,4 @@
-#Mode Info<br>
+# Mode Info<br>
 Mark Complete Beside The Mode Type When It's Finished<br>
 Ambient's Will Come Last!<br>
 <br>
@@ -40,7 +40,7 @@ Wongs Tea House [Lobby]<br>
 Yacht [Lobby]<br>
 <br>
 <br>
-#Ambients Info (For Myself)<br>
+# Ambients Info (For Myself)<br>
 Downtown = $Include: "amb_downtown.cts"<br>
 El Patron = $Include: "amb_barrio.cts"<br>
 Factories = $Include: "amb_docks.cts"<br>
