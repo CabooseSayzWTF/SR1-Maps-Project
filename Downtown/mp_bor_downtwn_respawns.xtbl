@@ -1,101 +1,22 @@
-<root><NoSave></NoSave><Table>
-<Respawn>
-<Name>mp_bor_downtwn_$r_bor_1</Name>
-<_Editor>
-<Category>Entries</Category>
-</_Editor>
-</Respawn>
-<Respawn>
-<Name>mp_bor_downtwn_$r_bor_2</Name>
-<_Editor>
-<Category>Entries</Category>
-</_Editor>
-</Respawn>
-<Respawn>
-<Name>mp_bor_downtwn_$r_team1_1</Name>
-<_Editor>
-<Category>Entries</Category>
-</_Editor>
-</Respawn>
-<Respawn>
-<Name>mp_bor_downtwn_$r_team1_2</Name>
-<_Editor>
-<Category>Entries</Category>
-</_Editor>
-</Respawn>
-<Respawn>
-<Name>mp_bor_downtwn_$r_team1_4</Name>
-<_Editor>
-<Category>Entries</Category>
-</_Editor>
-</Respawn>
-<Respawn>
-<Name>mp_bor_downtwn_$r_team1_3</Name>
-<_Editor>
-<Category>Entries</Category>
-</_Editor>
-</Respawn>
-<Respawn>
-<Name>mp_bor_downtwn_$r_team2_1</Name>
-<_Editor>
-<Category>Entries</Category>
-</_Editor>
-</Respawn>
-<Respawn>
-<Name>mp_bor_downtwn_$r_team2_2</Name>
-<_Editor>
-<Category>Entries</Category>
-</_Editor>
-</Respawn>
-<Respawn>
-<Name>mp_bor_downtwn_$r_team2_3</Name>
-<_Editor>
-<Category>Entries</Category>
-</_Editor>
-</Respawn>
-<Respawn>
-<Name>mp_bor_downtwn_$r_team2_4</Name>
-<_Editor>
-<Category>Entries</Category>
-</_Editor>
-</Respawn>
-<Respawn>
-<Name>mp_bor_downtwn_$r_team2_5</Name>
-<_Editor>
-<Category>Entries</Category>
-</_Editor>
-</Respawn>
-<Respawn>
-<Name>mp_bor_downtwn_$r_team2_6</Name>
-<_Editor>
-<Category>Entries</Category>
-</_Editor>
-</Respawn>
-<Respawn>
-<Name>mp_bor_downtwn_$r_team1_5</Name>
-<_Editor>
-<Category>Entries</Category>
-</_Editor>
-</Respawn>
-<Respawn>
-<Name>mp_bor_downtwn_$r_team1_6</Name>
-<_Editor>
-<Category>Entries</Category>
-</_Editor>
-</Respawn>
-</Table>
-<TableTemplates></TableTemplates>
+<root>
+<Table></Table>
+
+<TableTemplates>
+	</TableTemplates>
+
 <TableDescription>
-<Name>Respawn</Name>
-<Type>TableDescription</Type>
-<Element>
-<Name>Name</Name>
-<Type>String</Type>
-</Element>
-</TableDescription>
+	<Name>Respawn</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		</Element>
+	<Single_Line_XML>False</Single_Line_XML>
+	</TableDescription>
+
 <EntryCategories>
-<Category>
-<Name>Entries</Name>
-</Category>
-</EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
 </root>

@@ -3,6 +3,7 @@
 // -------
 
 $Include: "amb_mp_bor_downtwn.cts"
+$Include: "downtwnrespawns.cts"
 
 // -------
 #Groups
@@ -19,39 +20,9 @@ $Pos:			<-338.3186 24.76303 -1242.194>
 $Orient:		[-1.1]
 +Chunk:		"mp_bor_downtwn"
 
-$Navpoint:	"mp_bor_downtwn_$r_team1_1"
-$Type:		"ground"
-$Pos:			<-363.2578 24.49164 -1247.689>
-$Orient:		[0.8162597]
-+Chunk:		"mp_bor_downtwn"
-
 $Navpoint:	"mp_bor_downtwn_$r_bor_2"
 $Type:		"ground"
 $Pos:			<-662.1577 26.28452 -1246.344>
-$Orient:		[1.6]
-+Chunk:		"mp_bor_downtwn"
-
-$Navpoint:	"mp_bor_downtwn_$r_team2_1"
-$Type:		"ground"
-$Pos:			<-658.6272 24.84403 -1264.479>
-$Orient:		[1.6]
-+Chunk:		"mp_bor_downtwn"
-
-$Navpoint:	"mp_bor_downtwn_$r_team2_2"
-$Type:		"ground"
-$Pos:			<-647.4074 24.83561 -1223.568>
-$Orient:		[1.6]
-+Chunk:		"mp_bor_downtwn"
-
-$Navpoint:	"mp_bor_downtwn_$r_team2_3"
-$Type:		"ground"
-$Pos:			<-623.0843 24.84387 -1223.991>
-$Orient:		[1.6]
-+Chunk:		"mp_bor_downtwn"
-
-$Navpoint:	"mp_bor_downtwn_$r_team2_4"
-$Type:		"ground"
-$Pos:			<-633.8051 24.84238 -1264.825>
 $Orient:		[1.6]
 +Chunk:		"mp_bor_downtwn"
 
@@ -314,35 +285,10 @@ $Box size:		-2.000000 0.000000 -2.000000 2.000000 2.000000 2.000000
 +Vehicle
 +MPTeam1
 
-$Respawn:		"mp_bor_downtwn_$r_team1_1"
-$Start nav:		"mp_bor_downtwn_$r_team1_1"
-$Box size:		-2.000000 0.000000 -2.000000 2.000000 2.000000 2.000000
-+MPTeam1
-
 $Respawn:		"mp_bor_downtwn_$r_bor_2"
 $Start nav:		"mp_bor_downtwn_$r_bor_2"
 $Box size:		-2.000000 0.000000 -2.000000 2.000000 2.000000 2.000000
 +Vehicle
-+MPTeam2
-
-$Respawn:		"mp_bor_downtwn_$r_team2_1"
-$Start nav:		"mp_bor_downtwn_$r_team2_1"
-$Box size:		-2.000000 0.000000 -2.000000 2.000000 2.000000 2.000000
-+MPTeam2
-
-$Respawn:		"mp_bor_downtwn_$r_team2_2"
-$Start nav:		"mp_bor_downtwn_$r_team2_2"
-$Box size:		-2.000000 0.000000 -2.000000 2.000000 2.000000 2.000000
-+MPTeam2
-
-$Respawn:		"mp_bor_downtwn_$r_team2_3"
-$Start nav:		"mp_bor_downtwn_$r_team2_3"
-$Box size:		-2.000000 0.000000 -2.000000 2.000000 2.000000 2.000000
-+MPTeam2
-
-$Respawn:		"mp_bor_downtwn_$r_team2_4"
-$Start nav:		"mp_bor_downtwn_$r_team2_4"
-$Box size:		-2.000000 0.000000 -2.000000 2.000000 2.000000 2.000000
 +MPTeam2
 
 // -------
