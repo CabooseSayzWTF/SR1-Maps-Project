@@ -1,0 +1,171 @@
+<root>
+<Table>
+	<BORLevel>
+		<Name>BOR 3</Name>
+		<TeamCarRespawns>
+			<TeamOne>mp_bor_downtwn_$r_bor_1</TeamOne>
+			<TeamTwo>mp_bor_downtwn_$r_bor_2</TeamTwo>
+			</TeamCarRespawns>
+		<ExtraCarRespawns></ExtraCarRespawns>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<VictoryTrigger>mp_bor_downtwn_$t_victory</VictoryTrigger>
+		<ChopShops>
+			<ChopTrigger>mp_bor_downtwn_$t_chop1</ChopTrigger>
+			<ChopTrigger>mp_bor_downtwn_$t_chop2</ChopTrigger>
+			</ChopShops>
+		<SafeZones>
+			<TeamOne>mp_bor_downtwn_$t_safe1</TeamOne>
+			<TeamTwo>mp_bor_downtwn_$t_safe2</TeamTwo>
+			</SafeZones>
+		<ChainSpawns>
+			<SpawnNav>mp_bor_downtwn_$m_1</SpawnNav>
+			<SpawnNav>mp_bor_downtwn_$m_2</SpawnNav>
+			<SpawnNav>mp_bor_downtwn_$m_3</SpawnNav>
+			<SpawnNav>mp_bor_downtwn_$m_4</SpawnNav>
+			<SpawnNav>mp_bor_downtwn_$m_5</SpawnNav>
+			<SpawnNav>mp_bor_downtwn_$m_6</SpawnNav>
+			<SpawnNav>mp_bor_downtwn_$m_7</SpawnNav>
+			<SpawnNav>mp_bor_downtwn_$m_8</SpawnNav>
+			</ChainSpawns>
+		</BORLevel>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>BORLevel</Name>
+	<Type>TableDescription</Type>
+	<Display_Name>BOR Level</Display_Name>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		</Element>
+	<Element>
+		<Name>TeamCarRespawns</Name>
+		<Type>Element</Type>
+		<Display_Name>Team Car Respawns</Display_Name>
+		<Element>
+			<Name>TeamOne</Name>
+			<Type>Reference</Type>
+			<Display_Name>Team One</Display_Name>
+			<Reference>
+				<File>..\levels\mp_bor_downtwn\mp_bor_downtwn_respawns.xtbl</File>
+				<Type>Respawn.Name</Type>
+				</Reference>
+			</Element>
+		<Element>
+			<Name>TeamTwo</Name>
+			<Type>Reference</Type>
+			<Display_Name>Team Two</Display_Name>
+			<Reference>
+				<File>..\levels\mp_bor_downtwn\mp_bor_downtwn_respawns.xtbl</File>
+				<Type>Respawn.Name</Type>
+				</Reference>
+			</Element>
+		</Element>
+	<Element>
+		<Name>ExtraCarRespawns</Name>
+		<Type>Grid</Type>
+		<Display_Name>Extra Car Respawns</Display_Name>
+		<Element>
+			<Name>CarEntry</Name>
+			<Type>Element</Type>
+			<Display_Name>Car Entry</Display_Name>
+			<Element>
+				<Name>Model</Name>
+				<Type>Reference</Type>
+				<Reference>
+					<File>multiplayer_mode.xtbl</File>
+					<Type>MultiplayerMode.ModeSpecific.BlingedOutRide.ExtraCars.CarEntry.Model</Type>
+					</Reference>
+				</Element>
+			<Element>
+				<Name>Respawn</Name>
+				<Type>Reference</Type>
+				<Reference>
+					<File>..\levels\mp_bor_downtwn\mp_bor_downtwn_respawns.xtbl</File>
+					<Type>Respawn.Name</Type>
+					</Reference>
+				</Element>
+			<Element>
+				<Name>Team</Name>
+				<Type>Selection</Type>
+				<Default>No Team</Default>
+				<Choice>No Team</Choice>
+				<Choice>Team One</Choice>
+				<Choice>Team Two</Choice>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	<Element>
+		<Name>ChopShops</Name>
+		<Type>Grid</Type>
+		<Display_Name>Chop Shops</Display_Name>
+		<Element>
+			<Name>ChopTrigger</Name>
+			<Type>Reference</Type>
+			<Display_Name>Shop Trigger</Display_Name>
+			<Reference>
+				<File>..\levels\mp_bor_downtwn\mp_bor_downtwn_triggers.xtbl</File>
+				<Type>Trigger.Name</Type>
+				</Reference>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	<Element>
+		<Name>VictoryTrigger</Name>
+		<Type>Reference</Type>
+		<Display_Name>Victory Trigger</Display_Name>
+		<Reference>
+			<File>..\levels\mp_bor_downtwn\mp_bor_downtwn_triggers.xtbl</File>
+			<Type>Trigger.Name</Type>
+			</Reference>
+		</Element>
+	<Element>
+		<Name>SafeZones</Name>
+		<Type>Element</Type>
+		<Display_Name>Safe Zones</Display_Name>
+		<Element>
+			<Name>TeamOne</Name>
+			<Type>Reference</Type>
+			<Reference>
+				<File>..\levels\mp_bor_downtwn\mp_bor_downtwn_triggers.xtbl</File>
+				<Type>Trigger.Name</Type>
+				</Reference>
+			</Element>
+		<Element>
+			<Name>TeamTwo</Name>
+			<Type>Reference</Type>
+			<Reference>
+				<File>..\levels\mp_bor_downtwn\mp_bor_downtwn_triggers.xtbl</File>
+				<Type>Trigger.Name</Type>
+				</Reference>
+			</Element>
+		</Element>
+	<Element>
+		<Name>ChainSpawns</Name>
+		<Type>Grid</Type>
+		<Display_Name>Chain Spawns</Display_Name>
+		<Element>
+			<Name>SpawnNav</Name>
+			<Type>Reference</Type>
+			<Display_Name>Spawn Nav</Display_Name>
+			<Reference>
+				<File>..\levels\mp_bor_downtwn\mp_bor_downtwn_navpoints.xtbl</File>
+				<Type>Navpoint.Name</Type>
+				</Reference>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>
