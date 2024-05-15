@@ -1,6 +1,8 @@
 # Mode Info<br>
 Mark Finished Beside The Mode Type When It's Finished<br>
 The maps may need xtbl's for respawns, navs, & vehicles but unsure!, you prob have to name the xtbl's along the name of the cts for the mode.<br>
+I have supplied strings files, and the multiplayer_levels/maps file. The multiplayer_levels file may need tweaked for customizable_weapons/customizable_vehicles for the maps.
+Idk what those two lines of code mean so as is they are set to 0 for all custom maps. Please adjust as needed tho!<br>
 <br>
 Gangster Brawl<br>
 -----------------<br>
