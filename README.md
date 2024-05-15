@@ -1,43 +1,154 @@
 # Mode Info<br>
-Mark Complete Beside The Mode Type When It's Finished<br>
-Ambient's Will Come Last!<br>
+Mark Finished Beside The Mode Type When It's Finished<br>
 <br>
-Angelos [Lobby]<br>
-Barrio Whorehouse [Lobby, GB, BAC]<br>
-Big Picture Theater [Lobby, GB, BAC]<br>
-Church Interior [Lobby]<br>
-Crash Landing [Lobby]<br>
-Demolition Derby [Lobby, GB]<br>
-Downtown [Lobby, GB, TGB, PTP]<br>
-Early Ultor Dome [Lobby, GB, TGB, BAC]<br>
-El Patron [Lobby, GB, TGB, PTP, BAC]<br>
-Factories [Lobby, GB, TGB, PTP, BAC]<br>
-First Crib [Lobby]<br>
-Freckle Bitches [Lobby, GB, TGB, PTP, BAC]<br>
-Highway Factory [Lobby, GB, TGB, PTP, BAC]<br>
-Hydra Nightclub [Lobby]<br>
-Kingdom Come Records [Lobby]<br>
-Kings Grocery [Lobby, GB, PTP, BAC]<br>
-Legal Lee 1 [Lobby]<br>
-Legal Lee 2 [Lobby]<br>
-Lopez Seafood Inc [Lobby, GB, TGB, PTP, BAC]<br>
-Low Rez Downtown [Lobby, GB, TGB, PTP, BAC]<br>
-Methlab [Lobby]<br>
-On Track Nightclub [Lobby]<br>
-Open Legs Lodge [Lobby]<br>
-Parking Garage [Lobby]<br>
-Penthouse [Lobby, GB, TGB, PTP, BAC]<br>
-Prices Mansion [Lobby, GB, PTP, BAC]<br>
-Raykins Whorehouse [Lobby]<br>
-Steelmill [Lobby, GB, PTP, BAC]<br>
-Stocks Nightclub [Lobby]<br>
-Technically Legal [Lobby]<br>
-Tha Row [Lobby, GB, TGB, PTP, BAC]<br>
-The Box Lounge [Lobby]<br>
-Turbulence Stripclub [Lobby]<br>
-Wardrobe [Lobby]<br>
-Wongs Tea House [Lobby]<br>
-Yacht [Lobby]<br>
+Gangster Brawl<br>
+-----------------<br>
+1. The Corner<br>
+2. Hotwired<br>
+3. Ultor Dome<br>
+4. Barrio Whorehouse - needs clean up/tested<br>
+5. Big Picture Theater - needs clean up/tested<br>
+6. Demolition Derby<br>
+7. Downtown - needs new cts files<br>
+8. Early Ultor Dome - not added yet<br>
+9. El Patron - needs clean up/tested<br>
+10. Factories - needs clean up/tested<br>
+11. Freckle Bitches - needs clean up/tested<br>
+12. Highway Factory - needs clean up/tested<br>
+13. Kings Grocery - needs clean up/tested<br>
+14. Lopez Seafood Inc - needs clean up/tested<br>
+15. Low Rez Downtown - needs cts files<br>
+16. Penthouse - needs clean up/tested<br>
+17. Prices Mansion - needs clean up/tested<br>
+18. Steelmill - needs clean up/tested<br>
+19. Tha Row - needs clean up/tested<br>
+20. Test Level (mp_balance) - not added yet<br>
+<br>
+Team Gangster Brawl<br>
+-----------------------<br>
+1. The Corner<br>
+2. Hotwired<br>
+3. Ultor Dome<br>
+4. Downtown - needs new cts files<br>
+5. Early Ultor Dome - not added yet<br>
+6. El Patron - needs clean up/tested<br>
+7. Factories - needs clean up/tested<br>
+8. Freckle Bitches - needs clean up/tested<br>
+9. Highway Factory - needs clean up/tested<br>
+10. Lopez Seafood Inc - needs clean up/tested<br>
+11. Low Rez Downtown - needs cts file<br>
+12. Penthouse - needs clean up/tested<br>
+13. Tha Row - needs clean up/tested<br>
+<br>
+Big Ass Chains<br>
+----------------<br>
+1. The Corner<br>
+2. Hotwired<br>
+3. Ultor Dome<br>
+4. Barrio Whorehouse - needs clean up/tested<br>
+5. Big Picture Theater - needs clean up/tested<br>
+6. El Patron - needs clean up/tested<br>
+7. Factories - needs clean up/tested<br>
+8. Freckle Bitches - needs clean up/tested<br>
+9. Highway Factory - needs clean up/tested<br>
+10. Kings Grocery - needs clean up/tested<br>
+11. Lopez Seafood Inc - needs clean up/tested<br>
+12. Downtown - needs cts file<br>
+13. Low Rez Downtown - needs cts file<br>
+14. Penthouse - needs cts file<br>
+15. Prices Mansion - needs clean up/tested<br>
+16. Steelmill - needs clean up/tested<br>
+17. Tha Row - needs clean up/tested<br>
+18. Early Ultor Dome - not added yet<br>
+<br>
+Team Big Ass Chains<br>
+-------------------<br>
+If any of the BAC cts files were made compatible for TBAC, let me know, because idk otherwise.<br>
+1. The Corner<br>
+2. Hotwired<br>
+3. Ultor Dome<br>
+<br>
+Protect Tha Pimp<br>
+-------------------<br>
+1. Crunch Time<br>
+2. Holding Pattern<br>
+3. Code Blue<br>
+4. Downtown - needs new cts files<br>
+5. El Patron - needs tested<br>
+6. Factories - needs tested<br>
+7. Freckle Bitches - needs tested<br>
+8. Highway Factory - needs tested<br>
+9. Kings Grocery - needs tested<br>
+10. Lopez Seafood Inc - needs tested<br>
+11. Penthouse - needs cts file<br>
+12. Prices Mansion - needs tested<br>
+13. Steelmill - needs tested<br>
+14. Tha Row - needs tested<br>
+15. Low Rez Downtown - needs cts files<br>
+<br>
+Lobby<br>
+------<br>
+1. The Corner - Will Use GB cts<br>
+2. Hotwired - Will Use GB cts<br>
+3. Ultor Dome - Will Use GB cts<br>
+4. Crunch Time - Will Use PTP cts otherwise ptp cts needs renamed and changed in the mp levels file.<br>
+5. Holding Pattern - Will Use PTP cts otherwise ptp cts needs renamed and changed in the mp levels file.<br>
+6. Code Blue - Will Use PTP cts otherwise ptp cts needs renamed and changed in the mp levels file.<br>
+7. Mob Rule - Will Use COOP cts otherwise coop cts needs renamed and changed in the mp levels file.<br>
+8. Turbulence - Will Use COOP cts otherwise coop cts needs renamed and changed in the mp levels file.<br>
+9. Industrial - Will Use GB cts<br>
+10. Heist - Will Use COOP cts otherwise coop cts needs renamed and changed in the mp levels file.<br>
+11. Early Ultor Dome - needs made or will use GB cts file when that is made<br>
+12. Test Level Balance - needs made or will use GB cts file when that is made<br>
+13. Angelos - needs made<br>
+14. Barrio Whorehouse - Will use GB cts<br>
+15. Big Picture Theater - Will use GB cts<br>
+16. Church Interior - needs made<br>
+17. Crash Landing - needs made<br>
+18. Demolition Derby - Should already be made?<br>
+19. Downtown - Will use GB cts<br>
+20. El Patron - Will use GB cts<br>
+21. Factories - Will use GB cts<br>
+22. First Crib - needs made<br>
+23. Freckle Bitches - Will use GB cts<br>
+24. Highway Factory - Will use GB cts<br>
+25. Hydra Nightclub - needs made<br>
+26. Kingdom Come Records - needs made<br>
+27. Kings Grocery - Will use GB cts<br>
+28. Legal Lee 1 - needs made<br>
+29. Legal Lee 2 - needs made<br>
+30. Lopez Seafood Inc - Will use GB cts<br>
+31. Low Rez Downtown - Will use GB cts<br>
+32. Methlab - needs made<br>
+33. On Track Nightclub - needs made<br>
+34. Open Legs Lodge - needs made<br>
+35. Parking Garage - needs made<br>
+36. Penthouse - Will use GB cts<br>
+37. Prices Mansion - Will use GB cts<br>
+38. Raykins Hotel - should be done but need to verify, it's a meh map anyways<br>
+39. Steelmill - Will use GB cts<br>
+40. Stocks Nightclub - needs made<br>
+41. Technically Legal - needs made<br>
+42. Tha Row - Will use GB cts<br>
+43. The Box Lounge - should be done but need to verify<br>
+44. Turbulence Stripclub - needs made<br>
+45. Wardrobe - just needs more spawns or leave as is?<br>
+46. Wongs Tea House - needs made<br>
+47. Yacht - needs made<br>
+<br>
+Original Maps in Diff Modes<br>
+---------------------------------------- <br>
+1. Crunch Time (originates from ptp)<br>
+2. Holding Pattern (originates from ptp)<br>
+3. Code Blue (originates from ptp)<br>
+4. Mob Rule (originates from coop)<br>
+5. Turbulence (originates from coop)<br>
+6. Industrial (originates from GB/TGB/BAC/TBAC)<br>
+7. Heist (originates from coop)<br>
+If you want any of these 7 maps in GB/TGB/BAC/TBAC/PTP<br>
+I need the cts files for them.<br>
+-- Coop and BOR stuff will come in later releases! So please, nobody focus on Coop or BOR till every<br>
+other map, cts file, map image is tested. Adding more to the current list just puts us very behind.<br>
 <br>
 <br>
 # Ambients Info (For Myself)<br>
