@@ -1,5 +1,6 @@
 # Mode Info<br>
 Mark Finished Beside The Mode Type When It's Finished<br>
+The maps may need xtbl's for respawns, navs, & vehicles but unsure!, you prob have to name the xtbl's along the name of the cts for the mode.<br>
 <br>
 Gangster Brawl<br>
 -----------------<br>
