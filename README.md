@@ -128,7 +128,7 @@ Lobby<br>
 35. Parking Garage - needs made and needs a new loadscreen image<br>
 36. Penthouse - Will use GB cts<br>
 37. Prices Mansion - Will use GB cts<br>
-38. Raykins Hotel - should be done but need to verify, it's a meh map anyways<br>
+38. Raykins Hotel - Might scrap, collisonless floor/door issue and adding the floor chunk causes crashes on game end sometimes.<br>
 39. Steelmill - Will use GB cts<br>
 40. Stocks Nightclub - needs made<br>
 41. Technically Legal - needs made<br>
