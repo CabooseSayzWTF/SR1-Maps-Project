@@ -23,12 +23,6 @@ $Pos:			<61.77649 21.4865 -1564.457>
 $Orient:		[3.13834]
 +Chunk:		"mp_grocery"
 
-$Navpoint:	"mp_grocery_$i_rpg1"
-$Type:		"ground"
-$Pos:			<-0.127506 -1.791222 0.484044>
-$Orient:		[I]
-+Chunk:		"mp_grocery"
-
 $Navpoint:	"mp_grocery_$i_sr1"
 $Type:		"ground"
 $Pos:			<62.16867 21.4865 -1579.608>
@@ -125,40 +119,10 @@ $Pos:			<35.42534 22.97398 -1572.047>
 $Orient:		[-0.9940892]
 +Chunk:		"mp_grocery"
 
-$Navpoint:	"mp_grocery_$r_veh1"
-$Type:		"ground"
-$Pos:			<-61.600025 0.037657 37.646477>
-$Orient:		[0.383972]
-+Chunk:		"mp_grocery"
-
-$Navpoint:	"mp_grocery_$r_veh2"
-$Type:		"ground"
-$Pos:			<28.906389 1.197280 -69.607140>
-$Orient:		[I]
-+Chunk:		"mp_grocery"
-
-$Navpoint:	"mp_grocery_$v0000"
-$Type:		"ground"
-$Pos:			<15.028091 1.134424 -76.914726>
-$Orient:		[I]
-+Chunk:		"mp_grocery"
-
-$Navpoint:	"mp_grocery_$v0001"
-$Type:		"ground"
-$Pos:			<-67.306152 -0.123400 21.549381>
-$Orient:		[I]
-+Chunk:		"mp_grocery"
-
 $Navpoint:	"mp_grocery_$i_ak2"
 $Type:		"ground"
 $Pos:			<70.42912 21.37408 -1552.537>
 $Orient:		[-3.114263]
-+Chunk:		"mp_grocery"
-
-$Navpoint:	"mp_grocery_$i_sr2"
-$Type:		"ground"
-$Pos:			<43.126816 -0.167318 -56.780453>
-$Orient:		[I]
 +Chunk:		"mp_grocery"
 
 $Navpoint:	"mp_grocery_$i_m16"
@@ -221,12 +185,6 @@ $Pos:			<61.89959 21.4865 -1559.955>
 $Orient:		[2.995581]
 +Chunk:		"mp_grocery"
 
-$Navpoint:	"mp_grocery_$i_hg1"
-$Type:		"ground"
-$Pos:			<-46.427822 1.007897 -43.498806>
-$Orient:		[I]
-+Chunk:		"mp_grocery"
-
 $Navpoint:	"mp_grocery_$i_t93"
 $Type:		"ground"
 $Pos:			<61.86222 21.4865 -1574.714>
@@ -237,18 +195,6 @@ $Navpoint:	"mp_grocery_$i_sg3"
 $Type:		"ground"
 $Pos:			<72.44595 21.4865 -1573.95>
 $Orient:		[3.098048]
-+Chunk:		"mp_grocery"
-
-$Navpoint:	"mp_grocery_$r_veh3"
-$Type:		"ground"
-$Pos:			<-57.829971 0.060860 -31.834263>
-$Orient:		[I]
-+Chunk:		"mp_grocery"
-
-$Navpoint:	"mp_grocery_$r_veh4"
-$Type:		"ground"
-$Pos:			<68.504478 0.098577 -3.889767>
-$Orient:		[I]
 +Chunk:		"mp_grocery"
 
 $Navpoint:	"amb_wrsuburb_neg_stronghold"
@@ -273,10 +219,6 @@ $Item:		"ak3"
 $Item type:	"ak47"
 $Start nav:	"ak3"
 
-$Item:		"mp_grocery_$i_rpg1"
-$Item type:	"rpg_launcher"
-$Start nav:	"mp_grocery_$i_rpg1"
-
 $Item:		"mp_grocery_$i_sr1"
 $Item type:	"sniper_rifle"
 $Start nav:	"mp_grocery_$i_sr1"
@@ -288,10 +230,6 @@ $Start nav:	"mp_grocery_$i_sg1"
 $Item:		"mp_grocery_$i_ak2"
 $Item type:	"ak47"
 $Start nav:	"mp_grocery_$i_ak2"
-
-$Item:		"mp_grocery_$i_sr2"
-$Item type:	"sniper_rifle"
-$Start nav:	"mp_grocery_$i_sr2"
 
 $Item:		"mp_grocery_$i_t92"
 $Item type:	"m16"
@@ -320,10 +258,6 @@ $Start nav:	"mp_grocery_$i_sg2"
 $Item:		"mp_grocery_$i_pb2"
 $Item type:	"pipe_bomb"
 $Start nav:	"mp_grocery_$i_pb2"
-
-$Item:		"mp_grocery_$i_hg1"
-$Item type:	"beretta"
-$Start nav:	"mp_grocery_$i_hg1"
 
 $Item:		"mp_grocery_$i_t93"
 $Item type:	"tec9"
@@ -373,16 +307,6 @@ $Sphere radius:				.7
 #Vehicles
 // -------
 
-$Vehicle:		"mp_grocery_$v0000"
-$Vehicle type:	"sp_metermaid01"
-$Start nav:		"mp_grocery_$v0000"
-$Stream Distance:			50.000
-
-$Vehicle:		"mp_grocery_$v0001"
-$Vehicle type:	"sp_metermaid01"
-$Start nav:		"mp_grocery_$v0001"
-$Stream Distance:			50.000
-
 // -------
 #Respawns
 // -------
@@ -419,16 +343,6 @@ $Respawn:		"mp_grocery_respawn007"
 $Start nav:		"mp_grocery_$respawn007"
 $Box size:		-2.000000 0.000000 -2.000000 2.000000 2.000000 2.000000
 
-$Respawn:		"mp_grocery_$r_veh1"
-$Start nav:		"mp_grocery_$r_veh1"
-$Box size:		-3.812500 0.000000 -3.812500 3.812500 2.000000 3.812500
-+Vehicle
-
-$Respawn:		"mp_grocery_$r_veh2"
-$Start nav:		"mp_grocery_$r_veh2"
-$Box size:		-3.812500 0.000000 -3.750000 3.812500 2.000000 3.750000
-+Vehicle
-
 $Respawn:		"mp_grocery_$r000"
 $Start nav:		"mp_grocery_$r000"
 $Box size:		-2.000000 0.000000 -2.000000 2.000000 2.000000 2.000000
@@ -444,16 +358,6 @@ $Box size:		-2.000000 0.000000 -2.000000 2.000000 2.000000 2.000000
 $Respawn:		"mp_grocery_$r003"
 $Start nav:		"mp_grocery_$r003"
 $Box size:		-2.000000 0.000000 -2.000000 2.000000 2.000000 2.000000
-
-$Respawn:		"mp_grocery_$r_veh3"
-$Start nav:		"mp_grocery_$r_veh3"
-$Box size:		-4.000000 0.000000 -4.000000 4.000000 4.000000 4.000000
-+Vehicle
-
-$Respawn:		"mp_grocery_$r_veh4"
-$Start nav:		"mp_grocery_$r_veh4"
-$Box size:		-4.000000 0.000000 -4.000000 4.000000 4.000000 4.000000
-+Vehicle
 
 // -------
 #Humans
