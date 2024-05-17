@@ -47,12 +47,6 @@ $Pos:			<-889.1099 152.8747 -1280.007>
 $Orient:		[2.484289]
 +Chunk:		"mp_kingpen"
 
-$Navpoint:	"mp_kingpen_$i_rpg1"
-$Type:		"ground"
-$Pos:			<-0.127506 -1.791222 0.484044>
-$Orient:		[I]
-+Chunk:		"mp_kingpen"
-
 $Navpoint:	"mp_kingpen_$i_sr1"
 $Type:		"ground"
 $Pos:			<-898.3527 160.1531 -1260.607>
@@ -125,40 +119,10 @@ $Pos:			<-893.9644 160.1531 -1255.434>
 $Orient:		[0.9803703]
 +Chunk:		"mp_kingpen"
 
-$Navpoint:	"mp_kingpen_$r_veh1"
-$Type:		"ground"
-$Pos:			<-61.600025 0.037657 37.646477>
-$Orient:		[0.383972]
-+Chunk:		"mp_kingpen"
-
-$Navpoint:	"mp_kingpen_$r_veh2"
-$Type:		"ground"
-$Pos:			<28.906389 1.197280 -69.607140>
-$Orient:		[I]
-+Chunk:		"mp_kingpen"
-
-$Navpoint:	"mp_kingpen_$v0000"
-$Type:		"ground"
-$Pos:			<15.028091 1.134424 -76.914726>
-$Orient:		[I]
-+Chunk:		"mp_kingpen"
-
-$Navpoint:	"mp_kingpen_$v0001"
-$Type:		"ground"
-$Pos:			<-67.306152 -0.123400 21.549381>
-$Orient:		[I]
-+Chunk:		"mp_kingpen"
-
 $Navpoint:	"mp_kingpen_$i_ak2"
 $Type:		"ground"
 $Pos:			<-883.983 159.9332 -1281.79>
 $Orient:		[2.536232]
-+Chunk:		"mp_kingpen"
-
-$Navpoint:	"mp_kingpen_$i_sr2"
-$Type:		"ground"
-$Pos:			<43.126816 -0.167318 -56.780453>
-$Orient:		[I]
 +Chunk:		"mp_kingpen"
 
 $Navpoint:	"mp_kingpen_$i_t92"
@@ -215,12 +179,6 @@ $Pos:			<-911.4736 152.8746 -1241.682>
 $Orient:		[-0.6849848]
 +Chunk:		"mp_kingpen"
 
-$Navpoint:	"mp_kingpen_$i_hg1"
-$Type:		"ground"
-$Pos:			<-46.427822 1.007897 -43.498806>
-$Orient:		[I]
-+Chunk:		"mp_kingpen"
-
 $Navpoint:	"mp_kingpen_$i_m16"
 $Type:		"ground"
 $Pos:			<-894.1749 152.8754 -1248.427>
@@ -231,18 +189,6 @@ $Navpoint:	"mp_kingpen_$i_sg3"
 $Type:		"ground"
 $Pos:			<-883.7388 160.1624 -1254.758>
 $Orient:		[-2.1429]
-+Chunk:		"mp_kingpen"
-
-$Navpoint:	"mp_kingpen_$r_veh3"
-$Type:		"ground"
-$Pos:			<-57.829971 0.060860 -31.834263>
-$Orient:		[I]
-+Chunk:		"mp_kingpen"
-
-$Navpoint:	"mp_kingpen_$r_veh4"
-$Type:		"ground"
-$Pos:			<68.504478 0.098577 -3.889767>
-$Orient:		[I]
 +Chunk:		"mp_kingpen"
 
 $Navpoint:	"amb_king_1"
@@ -325,10 +271,6 @@ $Item:		"magnum1"
 $Item type:	"magnum"
 $Start nav:	"magnum1"
 
-$Item:		"mp_kingpen_$i_rpg1"
-$Item type:	"rpg_launcher"
-$Start nav:	"mp_kingpen_$i_rpg1"
-
 $Item:		"mp_kingpen_$i_sr1"
 $Item type:	"sniper_rifle"
 $Start nav:	"mp_kingpen_$i_sr1"
@@ -340,10 +282,6 @@ $Start nav:	"mp_kingpen_$i_sg1"
 $Item:		"mp_kingpen_$i_ak2"
 $Item type:	"ak47"
 $Start nav:	"mp_kingpen_$i_ak2"
-
-$Item:		"mp_kingpen_$i_sr2"
-$Item type:	"sniper_rifle"
-$Start nav:	"mp_kingpen_$i_sr2"
 
 $Item:		"mp_kingpen_$i_t92"
 $Item type:	"tec9"
@@ -373,10 +311,6 @@ $Item:		"mp_kingpen_$i_pb2"
 $Item type:	"pipe_bomb"
 $Start nav:	"mp_kingpen_$i_pb2"
 
-$Item:		"mp_kingpen_$i_hg1"
-$Item type:	"beretta"
-$Start nav:	"mp_kingpen_$i_hg1"
-
 $Item:		"mp_kingpen_$i_t93"
 $Item type:	"m16"
 $Start nav:	"mp_kingpen_$i_m16"
@@ -392,16 +326,6 @@ $Start nav:	"mp_kingpen_$i_sg3"
 // -------
 #Vehicles
 // -------
-
-$Vehicle:		"mp_kingpen_$v0000"
-$Vehicle type:	"sp_metermaid01"
-$Start nav:		"mp_kingpen_$v0000"
-$Stream Distance:			50.000
-
-$Vehicle:		"mp_kingpen_$v0001"
-$Vehicle type:	"sp_metermaid01"
-$Start nav:		"mp_kingpen_$v0001"
-$Stream Distance:			50.000
 
 // -------
 #Respawns
@@ -439,16 +363,6 @@ $Respawn:		"mp_kingpen_respawn007"
 $Start nav:		"mp_kingpen_$respawn007"
 $Box size:		-2.000000 0.000000 -2.000000 2.000000 2.000000 2.000000
 
-$Respawn:		"mp_kingpen_$r_veh1"
-$Start nav:		"mp_kingpen_$r_veh1"
-$Box size:		-3.812500 0.000000 -3.812500 3.812500 2.000000 3.812500
-+Vehicle
-
-$Respawn:		"mp_kingpen_$r_veh2"
-$Start nav:		"mp_kingpen_$r_veh2"
-$Box size:		-3.812500 0.000000 -3.750000 3.812500 2.000000 3.750000
-+Vehicle
-
 $Respawn:		"mp_kingpen_$r000"
 $Start nav:		"mp_kingpen_$r000"
 $Box size:		-2.000000 0.000000 -2.000000 2.000000 2.000000 2.000000
@@ -464,16 +378,6 @@ $Box size:		-2.000000 0.000000 -2.000000 2.000000 2.000000 2.000000
 $Respawn:		"mp_kingpen_$r003"
 $Start nav:		"mp_kingpen_$r003"
 $Box size:		-2.000000 0.000000 -2.000000 2.000000 2.000000 2.000000
-
-$Respawn:		"mp_kingpen_$r_veh3"
-$Start nav:		"mp_kingpen_$r_veh3"
-$Box size:		-4.000000 0.000000 -4.000000 4.000000 4.000000 4.000000
-+Vehicle
-
-$Respawn:		"mp_kingpen_$r_veh4"
-$Start nav:		"mp_kingpen_$r_veh4"
-$Box size:		-4.000000 0.000000 -4.000000 4.000000 4.000000 4.000000
-+Vehicle
 
 // -------
 #Humans
