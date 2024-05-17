@@ -19,7 +19,7 @@ Gangster Brawl<br>
 11. Freckle Bitches - CTS has been cleaned up, spawns need tested<br>
 12. Highway Factory - CTS has been cleaned up, spawns need tested and new loadscreen image<br>
 13. Kings Grocery - CTS has been cleaned up, spawns need tested<br>
-14. Lopez Seafood Inc - needs clean up/tested and new loadscreen image<br>
+14. Lopez Seafood Inc - CTS has been cleaned up, spawns need tested and new loadscreen image<br>
 15. Low Rez Downtown - needs cts files<br>
 16. Penthouse - needs clean up/tested<br>
 17. Prices Mansion - needs clean up/tested<br>
@@ -38,7 +38,7 @@ Team Gangster Brawl<br>
 7. Factories - CTS has been cleaned up, spawns need tested (team spawns may be needed?) and new loadscreen image<br>
 8. Freckle Bitches - CTS has been cleaned up, spawns need tested (team spawns may be needed?)<br>
 9. Highway Factory - CTS has been cleaned up, spawns need tested (team spawns may be needed?) and new loadscreen image<br>
-10. Lopez Seafood Inc - needs clean up/tested and new loadscreen image<br>
+10. Lopez Seafood Inc - CTS has been cleaned up, spawns need tested (team spawns may be needed?) and new loadscreen image<br>
 11. Low Rez Downtown - needs cts file<br>
 12. Penthouse - needs clean up/tested<br>
 13. Tha Row - needs clean up/tested and new loadscreen image<br>
@@ -55,7 +55,7 @@ Big Ass Chains<br>
 8. Freckle Bitches - CTS has been cleaned up, spawns & triggers need tested<br>
 9. Highway Factory - CTS has been cleaned up, spawns & triggers need tested and new loadscreen image<br>
 10. Kings Grocery - CTS has been cleaned up, spawns & triggers need tested<br>
-11. Lopez Seafood Inc - needs clean up/tested and new loadscreen image<br>
+11. Lopez Seafood Inc - CTS has been cleaned up, spawns & triggers need tested and new loadscreen image<br>
 12. Downtown - needs cts file and new loadscreen image<br>
 13. Low Rez Downtown - needs cts file<br>
 14. Penthouse - needs cts file<br>
