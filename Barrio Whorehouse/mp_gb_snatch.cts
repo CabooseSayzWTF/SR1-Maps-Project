@@ -11,34 +11,16 @@
 #Navpoints
 // -------
 
-$Navpoint:	"mp_snatch_$i_rpg1"
-$Type:		"ground"
-$Pos:			<-0.127506 -1.791222 0.484044>
-$Orient:		[I]
-+Chunk:		"mp_snatch"
-
 $Navpoint:	"mp_snatch_$i_sr1"
 $Type:		"ground"
 $Pos:			<-205.6384 -3.962196 602.2667>
 $Orient:		[-1.597978]
 +Chunk:		"mp_snatch"
 
-$Navpoint:	"mp_snatch_$i_sg1"
-$Type:		"ground"
-$Pos:			<95.084679 0.096592 0.425873>
-$Orient:		[I]
-+Chunk:		"mp_snatch"
-
 $Navpoint:	"mp_snatch_$i_t91"
 $Type:		"ground"
 $Pos:			<-185.5615 -3.962202 582.1414>
 $Orient:		[-0.04977822]
-+Chunk:		"mp_snatch"
-
-$Navpoint:	"mp_snatch_$i_sg2"
-$Type:		"ground"
-$Pos:			<-49.110775 0.840708 50.424335>
-$Orient:		[I]
 +Chunk:		"mp_snatch"
 
 $Navpoint:	"mp_snatch_$respawn000"
@@ -113,58 +95,16 @@ $Pos:			<-205.501 -3.962198 608.5659>
 $Orient:		[-3.109662]
 +Chunk:		"mp_snatch"
 
-$Navpoint:	"mp_snatch_$r_veh1"
-$Type:		"ground"
-$Pos:			<-61.600025 0.037657 37.646477>
-$Orient:		[0.383972]
-+Chunk:		"mp_snatch"
-
-$Navpoint:	"mp_snatch_$r_veh2"
-$Type:		"ground"
-$Pos:			<28.906389 1.197280 -69.607140>
-$Orient:		[I]
-+Chunk:		"mp_snatch"
-
-$Navpoint:	"mp_snatch_$v0000"
-$Type:		"ground"
-$Pos:			<15.028091 1.134424 -76.914726>
-$Orient:		[I]
-+Chunk:		"mp_snatch"
-
-$Navpoint:	"mp_snatch_$v0001"
-$Type:		"ground"
-$Pos:			<-67.306152 -0.123400 21.549381>
-$Orient:		[I]
-+Chunk:		"mp_snatch"
-
 $Navpoint:	"mp_snatch_$i_ak2"
 $Type:		"ground"
 $Pos:			<-196.1012 -3.96223 591.8574>
 $Orient:		[-0.8785137]
 +Chunk:		"mp_snatch"
 
-$Navpoint:	"mp_snatch_$i_sr2"
-$Type:		"ground"
-$Pos:			<43.126816 -0.167318 -56.780453>
-$Orient:		[I]
-+Chunk:		"mp_snatch"
-
 $Navpoint:	"mp_snatch_$i_t92"
 $Type:		"ground"
 $Pos:			<-206.9326 1.158767 580.2845>
 $Orient:		[-1.032476]
-+Chunk:		"mp_snatch"
-
-$Navpoint:	"mp_snatch_$i_pb1"
-$Type:		"ground"
-$Pos:			<-3.685187 -0.100843 -21.370039>
-$Orient:		[I]
-+Chunk:		"mp_snatch"
-
-$Navpoint:	"mp_snatch_$i_ak1"
-$Type:		"ground"
-$Pos:			<0.797437 7.607708 -111.682320>
-$Orient:		[I]
 +Chunk:		"mp_snatch"
 
 $Navpoint:	"mp_snatch_$i_ps1"
@@ -179,34 +119,10 @@ $Pos:			<-194.5984 -3.962257 584.5895>
 $Orient:		[-0.7087997]
 +Chunk:		"mp_snatch"
 
-$Navpoint:	"mp_snatch_$i_hg1"
-$Type:		"ground"
-$Pos:			<-46.427822 1.007897 -43.498806>
-$Orient:		[I]
-+Chunk:		"mp_snatch"
-
-$Navpoint:	"mp_snatch_$i_t93"
-$Type:		"ground"
-$Pos:			<-51.513840 -0.171392 -1.686661>
-$Orient:		[I]
-+Chunk:		"mp_snatch"
-
 $Navpoint:	"mp_snatch_$i_sg3"
 $Type:		"ground"
 $Pos:			<-196.8246 1.158778 593.4796>
 $Orient:		[-2.542491]
-+Chunk:		"mp_snatch"
-
-$Navpoint:	"mp_snatch_$r_veh3"
-$Type:		"ground"
-$Pos:			<-57.829971 0.060860 -31.834263>
-$Orient:		[I]
-+Chunk:		"mp_snatch"
-
-$Navpoint:	"mp_snatch_$r_veh4"
-$Type:		"ground"
-$Pos:			<68.504478 0.098577 -3.889767>
-$Orient:		[I]
 +Chunk:		"mp_snatch"
 
 $Navpoint:	"mp_snatch_sex"
@@ -223,17 +139,9 @@ $Orient:		[I]
 #Items
 // -------
 
-$Item:		"mp_snatch_$i_rpg1"
-$Item type:	"rpg_launcher"
-$Start nav:	"mp_snatch_$i_rpg1"
-
 $Item:		"mp_snatch_$i_sr1"
 $Item type:	"sniper_rifle"
 $Start nav:	"mp_snatch_$i_sr1"
-
-$Item:		"mp_snatch_$i_sg1"
-$Item type:	"pump_action_shotgun"
-$Start nav:	"mp_snatch_$i_sg1"
 
 $Item:		"mp_snatch_$i_ak2"
 $Item type:	"ak47"
@@ -247,17 +155,9 @@ $Item:		"mp_snatch_$i_t92"
 $Item type:	"tec9"
 $Start nav:	"mp_snatch_$i_t92"
 
-$Item:		"mp_snatch_$i_pb1"
-$Item type:	"pipe_bomb"
-$Start nav:	"mp_snatch_$i_pb1"
-
 $Item:		"mp_snatch_$i_ps1"
 $Item type:	"pimp_slap"
 $Start nav:	"mp_snatch_$i_ps1"
-
-$Item:		"mp_snatch_$i_ak1"
-$Item type:	"ak47"
-$Start nav:	"mp_snatch_$i_ak1"
 
 $Item:		"mp_snatch_$i_t91"
 $Item type:	"tec9"
@@ -271,14 +171,6 @@ $Item:		"mp_snatch_$i_pb2"
 $Item type:	"pipe_bomb"
 $Start nav:	"mp_snatch_$i_pb2"
 
-$Item:		"mp_snatch_$i_hg1"
-$Item type:	"beretta"
-$Start nav:	"mp_snatch_$i_hg1"
-
-$Item:		"mp_snatch_$i_t93"
-$Item type:	"tec9"
-$Start nav:	"mp_snatch_$i_t93"
-
 $Item:		"mp_snatch_$i_sg3"
 $Item type:	"pump_action_shotgun"
 $Start nav:	"mp_snatch_$i_sg3"
@@ -290,16 +182,6 @@ $Start nav:	"mp_snatch_$i_sg3"
 // -------
 #Vehicles
 // -------
-
-$Vehicle:		"mp_snatch_$v0000"
-$Vehicle type:	"sp_metermaid01"
-$Start nav:		"mp_snatch_$v0000"
-$Stream Distance:			50.000
-
-$Vehicle:		"mp_snatch_$v0001"
-$Vehicle type:	"sp_metermaid01"
-$Start nav:		"mp_snatch_$v0001"
-$Stream Distance:			50.000
 
 // -------
 #Respawns
@@ -337,16 +219,6 @@ $Respawn:		"mp_snatch_respawn007"
 $Start nav:		"mp_snatch_$respawn007"
 $Box size:		-2.000000 0.000000 -2.000000 2.000000 2.000000 2.000000
 
-$Respawn:		"mp_snatch_$r_veh1"
-$Start nav:		"mp_snatch_$r_veh1"
-$Box size:		-3.812500 0.000000 -3.812500 3.812500 2.000000 3.812500
-+Vehicle
-
-$Respawn:		"mp_snatch_$r_veh2"
-$Start nav:		"mp_snatch_$r_veh2"
-$Box size:		-3.812500 0.000000 -3.750000 3.812500 2.000000 3.750000
-+Vehicle
-
 $Respawn:		"mp_snatch_$r000"
 $Start nav:		"mp_snatch_$r000"
 $Box size:		-2.000000 0.000000 -2.000000 2.000000 2.000000 2.000000
@@ -362,16 +234,6 @@ $Box size:		-2.000000 0.000000 -2.000000 2.000000 2.000000 2.000000
 $Respawn:		"mp_snatch_$r003"
 $Start nav:		"mp_snatch_$r003"
 $Box size:		-2.000000 0.000000 -2.000000 2.000000 2.000000 2.000000
-
-$Respawn:		"mp_snatch_$r_veh3"
-$Start nav:		"mp_snatch_$r_veh3"
-$Box size:		-4.000000 0.000000 -4.000000 4.000000 4.000000 4.000000
-+Vehicle
-
-$Respawn:		"mp_snatch_$r_veh4"
-$Start nav:		"mp_snatch_$r_veh4"
-$Box size:		-4.000000 0.000000 -4.000000 4.000000 4.000000 4.000000
-+Vehicle
 
 // -------
 #Humans
