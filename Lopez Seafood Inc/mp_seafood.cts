@@ -197,12 +197,6 @@ $Pos:			<-1149.157 -2.359344 1023.091>
 $Orient:		[-0.7579958]
 +Chunk:		"mp_seafood"
 
-$Navpoint:	"mp_seafood_$r_veh2"
-$Type:		"ground"
-$Pos:			<28.906389 1.197280 -69.607140>
-$Orient:		[I]
-+Chunk:		"mp_seafood"
-
 $Navpoint:	"mp_seafood_$v0000"
 $Type:		"ground"
 $Pos:			<-1300.096 -1.71917 1148.911>
@@ -257,12 +251,6 @@ $Pos:			<-1242.383 -2.849731 1123.927>
 $Orient:		[-1.842086]
 +Chunk:		"mp_seafood"
 
-$Navpoint:	"mp_seafood_$i_hg1"
-$Type:		"ground"
-$Pos:			<-46.427822 1.007897 -43.498806>
-$Orient:		[I]
-+Chunk:		"mp_seafood"
-
 $Navpoint:	"mp_seafood_$i_t93"
 $Type:		"ground"
 $Pos:			<-1192.161 -3.697344 1058.838>
@@ -273,18 +261,6 @@ $Navpoint:	"mp_seafood_$i_sg3"
 $Type:		"ground"
 $Pos:			<-1302.209 -2.068802 1383.77>
 $Orient:		[2.48003]
-+Chunk:		"mp_seafood"
-
-$Navpoint:	"mp_seafood_$r_veh3"
-$Type:		"ground"
-$Pos:			<-57.829971 0.060860 -31.834263>
-$Orient:		[I]
-+Chunk:		"mp_seafood"
-
-$Navpoint:	"mp_seafood_$r_veh4"
-$Type:		"ground"
-$Pos:			<68.504478 0.098577 -3.889767>
-$Orient:		[I]
 +Chunk:		"mp_seafood"
 
 // -------
@@ -395,10 +371,6 @@ $Item:		"mp_seafood_$i_pb2"
 $Item type:	"pipe_bomb"
 $Start nav:	"mp_seafood_$i_pb2"
 
-$Item:		"mp_seafood_$i_hg1"
-$Item type:	"beretta"
-$Start nav:	"mp_seafood_$i_hg1"
-
 $Item:		"mp_seafood_$i_t93"
 $Item type:	"spas12"
 $Start nav:	"mp_seafood_$i_t93"
@@ -415,7 +387,7 @@ $Start nav:	"mp_seafood_$i_sg3"
 #Vehicles
 // -------
 
-$Vehicle:		"mp_seafood_$v0000"
+$Vehicle:		"mp_seafood_$r_veh1"
 $Vehicle type:	"sp_metermaid01"
 $Start nav:		"mp_seafood_$r_veh1"
 $Stream Distance:			50.000
@@ -474,11 +446,6 @@ $Start nav:		"mp_seafood_$r_veh1"
 $Box size:		-3.812500 0.000000 -3.812500 3.812500 2.000000 3.812500
 +Vehicle
 
-$Respawn:		"mp_seafood_$r_veh2"
-$Start nav:		"mp_seafood_$r_veh2"
-$Box size:		-3.812500 0.000000 -3.750000 3.812500 2.000000 3.750000
-+Vehicle
-
 $Respawn:		"mp_seafood_$r000"
 $Start nav:		"mp_seafood_$r000"
 $Box size:		-2.000000 0.000000 -2.000000 2.000000 2.000000 2.000000
@@ -494,16 +461,6 @@ $Box size:		-2.000000 0.000000 -2.000000 2.000000 2.000000 2.000000
 $Respawn:		"mp_seafood_$r003"
 $Start nav:		"mp_seafood_$r003"
 $Box size:		-2.000000 0.000000 -2.000000 2.000000 2.000000 2.000000
-
-$Respawn:		"mp_seafood_$r_veh3"
-$Start nav:		"mp_seafood_$r_veh3"
-$Box size:		-4.000000 0.000000 -4.000000 4.000000 4.000000 4.000000
-+Vehicle
-
-$Respawn:		"mp_seafood_$r_veh4"
-$Start nav:		"mp_seafood_$r_veh4"
-$Box size:		-4.000000 0.000000 -4.000000 4.000000 4.000000 4.000000
-+Vehicle
 
 // -------
 #Humans
