@@ -341,7 +341,6 @@ $Item:		"mp_elpatrn_$i_rpg1"
 $Item type:	"sniper_rifle"
 $Start nav:	"sr3"
 
-
 $Item:		"mp_elpatrn_$i_rpg1"
 $Item type:	"molotov"
 $Start nav:	"molotov2"
