@@ -147,10 +147,6 @@ $Item:		"mp_snatch_$i_ak2"
 $Item type:	"ak47"
 $Start nav:	"mp_snatch_$i_ak2"
 
-$Item:		"mp_snatch_$i_sr2"
-$Item type:	"sniper_rifle"
-$Start nav:	"mp_snatch_$i_sr2"
-
 $Item:		"mp_snatch_$i_t92"
 $Item type:	"tec9"
 $Start nav:	"mp_snatch_$i_t92"
@@ -162,10 +158,6 @@ $Start nav:	"mp_snatch_$i_ps1"
 $Item:		"mp_snatch_$i_t91"
 $Item type:	"tec9"
 $Start nav:	"mp_snatch_$i_t91"
-
-$Item:		"mp_snatch_$i_sg2"
-$Item type:	"pump_action_shotgun"
-$Start nav:	"mp_snatch_$i_sg2"
 
 $Item:		"mp_snatch_$i_pb2"
 $Item type:	"pipe_bomb"

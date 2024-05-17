@@ -35,12 +35,6 @@ $Pos:			<649.8732 -3.737622 -32.27579>
 $Orient:		[-0.01814015]
 +Chunk:		"mp_movieth"
 
-$Navpoint:	"mp_movieth_$i_rpg1"
-$Type:		"ground"
-$Pos:			<-0.127506 -1.791222 0.484044>
-$Orient:		[I]
-+Chunk:		"mp_movieth"
-
 $Navpoint:	"mp_movieth_$i_sr1"
 $Type:		"ground"
 $Pos:			<643.0582 -3.737627 -32.24284>
@@ -57,12 +51,6 @@ $Navpoint:	"mp_movieth_$i_t91"
 $Type:		"ground"
 $Pos:			<631.5385 -3.737623 -20.61323>
 $Orient:		[1.862887]
-+Chunk:		"mp_movieth"
-
-$Navpoint:	"mp_movieth_$i_sg2"
-$Type:		"ground"
-$Pos:			<-49.110775 0.840708 50.424335>
-$Orient:		[I]
 +Chunk:		"mp_movieth"
 
 $Navpoint:	"mp_movieth_$respawn000"
@@ -137,40 +125,10 @@ $Pos:			<627.674 -3.721657 -28.84768>
 $Orient:		[1.483523]
 +Chunk:		"mp_movieth"
 
-$Navpoint:	"mp_movieth_$r_veh1"
-$Type:		"ground"
-$Pos:			<-61.600025 0.037657 37.646477>
-$Orient:		[0.383972]
-+Chunk:		"mp_movieth"
-
-$Navpoint:	"mp_movieth_$r_veh2"
-$Type:		"ground"
-$Pos:			<28.906389 1.197280 -69.607140>
-$Orient:		[I]
-+Chunk:		"mp_movieth"
-
-$Navpoint:	"mp_movieth_$v0000"
-$Type:		"ground"
-$Pos:			<15.028091 1.134424 -76.914726>
-$Orient:		[I]
-+Chunk:		"mp_movieth"
-
-$Navpoint:	"mp_movieth_$v0001"
-$Type:		"ground"
-$Pos:			<-67.306152 -0.123400 21.549381>
-$Orient:		[I]
-+Chunk:		"mp_movieth"
-
 $Navpoint:	"mp_movieth_$i_ak2"
 $Type:		"ground"
 $Pos:			<622.3789 -3.721653 -28.84642>
 $Orient:		[-0.07024806]
-+Chunk:		"mp_movieth"
-
-$Navpoint:	"mp_movieth_$i_sr2"
-$Type:		"ground"
-$Pos:			<43.126816 -0.167318 -56.780453>
-$Orient:		[I]
 +Chunk:		"mp_movieth"
 
 $Navpoint:	"mp_movieth_$i_t92"
@@ -183,12 +141,6 @@ $Navpoint:	"mp_movieth_$i_pb1"
 $Type:		"ground"
 $Pos:			<646.5524 -3.737624 -32.21282>
 $Orient:		[-0.06028774]
-+Chunk:		"mp_movieth"
-
-$Navpoint:	"mp_movieth_$i_ak1"
-$Type:		"ground"
-$Pos:			<0.797437 7.607708 -111.682320>
-$Orient:		[I]
 +Chunk:		"mp_movieth"
 
 $Navpoint:	"mp_movieth_$i_ps1"
@@ -221,48 +173,6 @@ $Pos:			<642.7418 -3.726835 -38.88824>
 $Orient:		[-0.01759974]
 +Chunk:		"mp_movieth"
 
-$Navpoint:	"mp_movieth_$t000"
-$Type:		"ground"
-$Pos:			<-1.012839 -1.956268 1.032114>
-$Orient:		[I]
-+Chunk:		"mp_movieth"
-
-$Navpoint:	"mp_movieth_$i_pb2"
-$Type:		"ground"
-$Pos:			<-12.488863 0.420718 -63.525204>
-$Orient:		[I]
-+Chunk:		"mp_movieth"
-
-$Navpoint:	"mp_movieth_$i_hg1"
-$Type:		"ground"
-$Pos:			<-46.427822 1.007897 -43.498806>
-$Orient:		[I]
-+Chunk:		"mp_movieth"
-
-$Navpoint:	"mp_movieth_$i_t93"
-$Type:		"ground"
-$Pos:			<-51.513840 -0.171392 -1.686661>
-$Orient:		[I]
-+Chunk:		"mp_movieth"
-
-$Navpoint:	"mp_movieth_$i_sg3"
-$Type:		"ground"
-$Pos:			<2.052280 -1.412673 17.888950>
-$Orient:		[I]
-+Chunk:		"mp_movieth"
-
-$Navpoint:	"mp_movieth_$r_veh3"
-$Type:		"ground"
-$Pos:			<-57.829971 0.060860 -31.834263>
-$Orient:		[I]
-+Chunk:		"mp_movieth"
-
-$Navpoint:	"mp_movieth_$r_veh4"
-$Type:		"ground"
-$Pos:			<68.504478 0.098577 -3.889767>
-$Orient:		[I]
-+Chunk:		"mp_movieth"
-
 $Navpoint:	"mp_movieth_sound"
 $Type:		"floating"
 $Pos:			<633.2503 4.25012 -28.77919>
@@ -293,10 +203,6 @@ $Item:		"m16"
 $Item type:	"m16"
 $Start nav:	"m16"
 
-$Item:		"mp_movieth_$i_rpg1"
-$Item type:	"rpg_launcher"
-$Start nav:	"mp_movieth_$i_rpg1"
-
 $Item:		"mp_movieth_$i_sr1"
 $Item type:	"sniper_rifle"
 $Start nav:	"mp_movieth_$i_sr1"
@@ -308,10 +214,6 @@ $Start nav:	"mp_movieth_$i_sg1"
 $Item:		"mp_movieth_$i_ak2"
 $Item type:	"ak47"
 $Start nav:	"mp_movieth_$i_ak2"
-
-$Item:		"mp_movieth_$i_sr2"
-$Item type:	"sniper_rifle"
-$Start nav:	"mp_movieth_$i_sr2"
 
 $Item:		"mp_movieth_$i_t92"
 $Item type:	"tec9"
@@ -325,33 +227,9 @@ $Item:		"mp_movieth_$i_ps1"
 $Item type:	"pimp_slap"
 $Start nav:	"mp_movieth_$i_ps1"
 
-$Item:		"mp_movieth_$i_ak1"
-$Item type:	"ak47"
-$Start nav:	"mp_movieth_$i_ak1"
-
 $Item:		"mp_movieth_$i_t91"
 $Item type:	"tec9"
 $Start nav:	"mp_movieth_$i_t91"
-
-$Item:		"mp_movieth_$i_sg2"
-$Item type:	"pump_action_shotgun"
-$Start nav:	"mp_movieth_$i_sg2"
-
-$Item:		"mp_movieth_$i_pb2"
-$Item type:	"pipe_bomb"
-$Start nav:	"mp_movieth_$i_pb2"
-
-$Item:		"mp_movieth_$i_hg1"
-$Item type:	"beretta"
-$Start nav:	"mp_movieth_$i_hg1"
-
-$Item:		"mp_movieth_$i_t93"
-$Item type:	"tec9"
-$Start nav:	"mp_movieth_$i_t93"
-
-$Item:		"mp_movieth_$i_sg3"
-$Item type:	"pump_action_shotgun"
-$Start nav:	"mp_movieth_$i_sg3"
 
 // -------
 #Triggers
@@ -393,16 +271,6 @@ $Sphere radius:				.7
 #Vehicles
 // -------
 
-$Vehicle:		"mp_movieth_$v0000"
-$Vehicle type:	"sp_metermaid01"
-$Start nav:		"mp_movieth_$v0000"
-$Stream Distance:			50.000
-
-$Vehicle:		"mp_movieth_$v0001"
-$Vehicle type:	"sp_metermaid01"
-$Start nav:		"mp_movieth_$v0001"
-$Stream Distance:			50.000
-
 // -------
 #Respawns
 // -------
@@ -439,16 +307,6 @@ $Respawn:		"mp_movieth_respawn007"
 $Start nav:		"mp_movieth_$respawn007"
 $Box size:		-2.000000 0.000000 -2.000000 2.000000 2.000000 2.000000
 
-$Respawn:		"mp_movieth_$r_veh1"
-$Start nav:		"mp_movieth_$r_veh1"
-$Box size:		-3.812500 0.000000 -3.812500 3.812500 2.000000 3.812500
-+Vehicle
-
-$Respawn:		"mp_movieth_$r_veh2"
-$Start nav:		"mp_movieth_$r_veh2"
-$Box size:		-3.812500 0.000000 -3.750000 3.812500 2.000000 3.750000
-+Vehicle
-
 $Respawn:		"mp_movieth_$r000"
 $Start nav:		"mp_movieth_$r000"
 $Box size:		-2.000000 0.000000 -2.000000 2.000000 2.000000 2.000000
@@ -464,16 +322,6 @@ $Box size:		-2.000000 0.000000 -2.000000 2.000000 2.000000 2.000000
 $Respawn:		"mp_movieth_$r003"
 $Start nav:		"mp_movieth_$r003"
 $Box size:		-2.000000 0.000000 -2.000000 2.000000 2.000000 2.000000
-
-$Respawn:		"mp_movieth_$r_veh3"
-$Start nav:		"mp_movieth_$r_veh3"
-$Box size:		-4.000000 0.000000 -4.000000 4.000000 4.000000 4.000000
-+Vehicle
-
-$Respawn:		"mp_movieth_$r_veh4"
-$Start nav:		"mp_movieth_$r_veh4"
-$Box size:		-4.000000 0.000000 -4.000000 4.000000 4.000000 4.000000
-+Vehicle
 
 // -------
 #Humans
