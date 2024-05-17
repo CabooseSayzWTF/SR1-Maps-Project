@@ -10,7 +10,7 @@ Gangster Brawl<br>
 2. Hotwired<br>
 3. Ultor Dome<br>
 4. Barrio Whorehouse - CTS has been cleaned up, spawns need tested.<br>
-5. Big Picture Theater - needs clean up/tested<br>
+5. Big Picture Theater - CTS has been cleaned up, spawns need tested<br>
 6. Demolition Derby<br>
 7. Downtown - needs new cts files and new loadscreen image<br>
 8. Early Ultor Dome - not added yet<br>
