@@ -211,30 +211,6 @@ $Pos:			<-606.9733 29.87862 739.9153>
 $Orient:		[0.9338301]
 +Chunk:		"mp_hwyfact"
 
-$Navpoint:	"mp_hwyfact_$r_veh1"
-$Type:		"ground"
-$Pos:			<-61.600025 0.037657 37.646477>
-$Orient:		[0.383972]
-+Chunk:		"mp_hwyfact"
-
-$Navpoint:	"mp_hwyfact_$r_veh2"
-$Type:		"ground"
-$Pos:			<28.906389 1.197280 -69.607140>
-$Orient:		[I]
-+Chunk:		"mp_hwyfact"
-
-$Navpoint:	"mp_hwyfact_$v0000"
-$Type:		"ground"
-$Pos:			<15.028091 1.134424 -76.914726>
-$Orient:		[I]
-+Chunk:		"mp_hwyfact"
-
-$Navpoint:	"mp_hwyfact_$v0001"
-$Type:		"ground"
-$Pos:			<-67.306152 -0.123400 21.549381>
-$Orient:		[I]
-+Chunk:		"mp_hwyfact"
-
 $Navpoint:	"mp_hwyfact_$i_ak2"
 $Type:		"ground"
 $Pos:			<-547.5078 33.14013 769.3918>
@@ -323,18 +299,6 @@ $Navpoint:	"mp_hwyfact_$i_sg3"
 $Type:		"ground"
 $Pos:			<-560.3609 33.14054 747.5941>
 $Orient:		[1.492151]
-+Chunk:		"mp_hwyfact"
-
-$Navpoint:	"mp_hwyfact_$r_veh3"
-$Type:		"ground"
-$Pos:			<-57.829971 0.060860 -31.834263>
-$Orient:		[I]
-+Chunk:		"mp_hwyfact"
-
-$Navpoint:	"mp_hwyfact_$r_veh4"
-$Type:		"ground"
-$Pos:			<68.504478 0.098577 -3.889767>
-$Orient:		[I]
 +Chunk:		"mp_hwyfact"
 
 // -------
@@ -509,16 +473,6 @@ $Sphere radius:				.7
 #Vehicles
 // -------
 
-$Vehicle:		"mp_hwyfact_$v0000"
-$Vehicle type:	"sp_metermaid01"
-$Start nav:		"mp_hwyfact_$v0000"
-$Stream Distance:			50.000
-
-$Vehicle:		"mp_hwyfact_$v0001"
-$Vehicle type:	"sp_metermaid01"
-$Start nav:		"mp_hwyfact_$v0001"
-$Stream Distance:			50.000
-
 // -------
 #Respawns
 // -------
@@ -555,16 +509,6 @@ $Respawn:		"mp_hwyfact_respawn007"
 $Start nav:		"mp_hwyfact_$respawn007"
 $Box size:		-2.000000 0.000000 -2.000000 2.000000 2.000000 2.000000
 
-$Respawn:		"mp_hwyfact_$r_veh1"
-$Start nav:		"mp_hwyfact_$r_veh1"
-$Box size:		-3.812500 0.000000 -3.812500 3.812500 2.000000 3.812500
-+Vehicle
-
-$Respawn:		"mp_hwyfact_$r_veh2"
-$Start nav:		"mp_hwyfact_$r_veh2"
-$Box size:		-3.812500 0.000000 -3.750000 3.812500 2.000000 3.750000
-+Vehicle
-
 $Respawn:		"mp_hwyfact_$r000"
 $Start nav:		"mp_hwyfact_$r000"
 $Box size:		-2.000000 0.000000 -2.000000 2.000000 2.000000 2.000000
@@ -580,16 +524,6 @@ $Box size:		-2.000000 0.000000 -2.000000 2.000000 2.000000 2.000000
 $Respawn:		"mp_hwyfact_$r003"
 $Start nav:		"mp_hwyfact_$r003"
 $Box size:		-2.000000 0.000000 -2.000000 2.000000 2.000000 2.000000
-
-$Respawn:		"mp_hwyfact_$r_veh3"
-$Start nav:		"mp_hwyfact_$r_veh3"
-$Box size:		-4.000000 0.000000 -4.000000 4.000000 4.000000 4.000000
-+Vehicle
-
-$Respawn:		"mp_hwyfact_$r_veh4"
-$Start nav:		"mp_hwyfact_$r_veh4"
-$Box size:		-4.000000 0.000000 -4.000000 4.000000 4.000000 4.000000
-+Vehicle
 
 // -------
 #Humans
