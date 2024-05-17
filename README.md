@@ -14,7 +14,7 @@ Gangster Brawl<br>
 6. Demolition Derby<br>
 7. Downtown - needs new cts files and new loadscreen image<br>
 8. Early Ultor Dome - not added yet<br>
-9. El Patron - needs clean up/tested and new loadscreen image<br>
+9. El Patron - needs clean up/tested and new loadscreen image [Figure out why skybox is not working/textures!?!!?]<br>
 10. Factories - needs clean up/tested and new loadscreen image<br>
 11. Freckle Bitches - needs clean up/tested<br>
 12. Highway Factory - needs clean up/tested and new loadscreen image<br>
