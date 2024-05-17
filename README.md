@@ -15,7 +15,7 @@ Gangster Brawl<br>
 7. Downtown - needs new cts files and new loadscreen image<br>
 8. Early Ultor Dome - not added yet<br>
 9. El Patron - CTS has been cleaned up, spawns need tested and new loadscreen image<br>
-10. Factories - needs clean up/tested and new loadscreen image<br>
+10. Factories - CTS has been cleaned up, spawns need tested and new loadscreen image<br>
 11. Freckle Bitches - needs clean up/tested<br>
 12. Highway Factory - needs clean up/tested and new loadscreen image<br>
 13. Kings Grocery - needs clean up/tested<br>
@@ -35,7 +35,7 @@ Team Gangster Brawl<br>
 4. Downtown - needs new cts files<br>
 5. Early Ultor Dome - not added yet<br>
 6. El Patron - CTS has been cleaned up, spawns need tested (team spawns may be needed?) and new loadscreen image<br>
-7. Factories - needs clean up/tested and new loadscreen image<br>
+7. Factories - CTS has been cleaned up, spawns need tested (team spawns may be needed?) and new loadscreen image<br>
 8. Freckle Bitches - needs clean up/tested<br>
 9. Highway Factory - needs clean up/tested and new loadscreen image<br>
 10. Lopez Seafood Inc - needs clean up/tested and new loadscreen image<br>
@@ -51,7 +51,7 @@ Big Ass Chains<br>
 4. Barrio Whorehouse - needs clean up/tested<br>
 5. Big Picture Theater - needs clean up/tested<br>
 6. El Patron - CTS has been cleaned up, spawns & triggers need tested and new loadscreen image<br>
-7. Factories - needs clean up/tested and new loadscreen image<br>
+7. Factories - CTS has been cleaned up, spawns & triggers need tested and new loadscreen image<br>
 8. Freckle Bitches - needs clean up/tested<br>
 9. Highway Factory - needs clean up/tested and new loadscreen image<br>
 10. Kings Grocery - needs clean up/tested<br>
