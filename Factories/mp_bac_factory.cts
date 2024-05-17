@@ -281,12 +281,6 @@ $Pos:			<-641.1072 4.588689 1207.353>
 $Orient:		[0.1047417]
 +Chunk:		"mp_factory"
 
-$Navpoint:	"mp_factory_$i_hg1"
-$Type:		"ground"
-$Pos:			<-46.427822 1.007897 -43.498806>
-$Orient:		[I]
-+Chunk:		"mp_factory"
-
 $Navpoint:	"mp_factory_$i_t93"
 $Type:		"ground"
 $Pos:			<-521.489 3.890996 1221.614>
@@ -417,10 +411,6 @@ $Start nav:	"mp_factory_$i_sg2"
 $Item:		"mp_factory_$i_pb2"
 $Item type:	"pipe_bomb"
 $Start nav:	"mp_factory_$i_pb2"
-
-$Item:		"mp_factory_$i_hg1"
-$Item type:	"beretta"
-$Start nav:	"mp_factory_$i_hg1"
 
 $Item:		"mp_factory_$i_t93"
 $Item type:	"tec9"
