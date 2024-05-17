@@ -81,7 +81,7 @@ Protect Tha Pimp<br>
 6. Factories - needs tested and new loadscreen image<br>
 7. Freckle Bitches - needs tested<br>
 8. Highway Factory - needs tested and new loadscreen image<br>
-9. Kings Grocery - needs tested<br>
+9. Kings Grocery - needs kewizzles cts file<br>
 10. Lopez Seafood Inc - needs tested and new loadscreen image<br>
 11. Penthouse - needs cts file<br>
 12. Prices Mansion - needs tested<br>
