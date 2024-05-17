@@ -48,8 +48,8 @@ Big Ass Chains<br>
 1. The Corner<br>
 2. Hotwired<br>
 3. Ultor Dome<br>
-4. Barrio Whorehouse - needs clean up/tested<br>
-5. Big Picture Theater - needs clean up/tested<br>
+4. Barrio Whorehouse - CTS has been cleaned up, spawns & triggers need tested<br>
+5. Big Picture Theater - CTS has been cleaned up, spawns & triggers need tested<br>
 6. El Patron - CTS has been cleaned up, spawns & triggers need tested and new loadscreen image<br>
 7. Factories - CTS has been cleaned up, spawns & triggers need tested and new loadscreen image<br>
 8. Freckle Bitches - CTS has been cleaned up, spawns & triggers need tested<br>
