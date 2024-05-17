@@ -23,7 +23,7 @@ Gangster Brawl<br>
 15. Low Rez Downtown - needs cts files<br>
 16. Penthouse - CTS has been cleaned up, spawns need tested<br>
 17. Prices Mansion - CTS has been cleaned up, spawns need tested<br>
-18. Steelmill - needs clean up/tested<br>
+18. Steelmill - CTS has been cleaned up, spawns need tested<br>
 19. Tha Row - needs clean up/tested and new loadscreen image<br>
 20. Test Level (mp_balance) - not added yet<br>
 <br>
@@ -59,8 +59,8 @@ Big Ass Chains<br>
 12. Downtown - needs cts file and new loadscreen image<br>
 13. Low Rez Downtown - needs cts file<br>
 14. Penthouse - needs cts file<br>
-15. Prices Mansion - CTS has been cleaned up, spawns need tested<br>
-16. Steelmill - needs clean up/tested<br>
+15. Prices Mansion - CTS has been cleaned up, spawns & triggers need tested<br>
+16. Steelmill - CTS has been cleaned up, spawns & triggers need tested<br>
 17. Tha Row - needs clean up/tested and new loadscreen image<br>
 18. Early Ultor Dome - not added yet<br>
 <br>
