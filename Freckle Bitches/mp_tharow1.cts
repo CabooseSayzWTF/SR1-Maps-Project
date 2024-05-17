@@ -233,12 +233,6 @@ $Pos:			<-964.3279 -3.586622 293.5592>
 $Orient:		[0.3916366]
 +Chunk:		"mp_tharow1"
 
-$Navpoint:	"mp_tharow1_$i_hg1"
-$Type:		"ground"
-$Pos:			<-46.427822 1.007897 -43.498806>
-$Orient:		[I]
-+Chunk:		"mp_tharow1"
-
 $Navpoint:	"mp_tharow1_$i_t93"
 $Type:		"ground"
 $Pos:			<-902.6707 -3.862127 -171.9385>
@@ -249,18 +243,6 @@ $Navpoint:	"mp_tharow1_$i_sg3"
 $Type:		"ground"
 $Pos:			<-877.6791 -3.845002 -68.98199>
 $Orient:		[-2.129099]
-+Chunk:		"mp_tharow1"
-
-$Navpoint:	"mp_tharow1_$r_veh3"
-$Type:		"ground"
-$Pos:			<-57.829971 0.060860 -31.834263>
-$Orient:		[I]
-+Chunk:		"mp_tharow1"
-
-$Navpoint:	"mp_tharow1_$r_veh4"
-$Type:		"ground"
-$Pos:			<68.504478 0.098577 -3.889767>
-$Orient:		[I]
 +Chunk:		"mp_tharow1"
 
 $Navpoint:	"amb_saintsrow_seagulls3"
@@ -397,10 +379,6 @@ $Item:		"mp_tharow1_$i_pb2"
 $Item type:	"pipe_bomb"
 $Start nav:	"mp_tharow1_$i_pb2"
 
-$Item:		"mp_tharow1_$i_hg1"
-$Item type:	"beretta"
-$Start nav:	"mp_tharow1_$i_hg1"
-
 $Item:		"mp_tharow1_$i_t93"
 $Item type:	"tec9"
 $Start nav:	"mp_tharow1_$i_t93"
@@ -502,16 +480,6 @@ $Box size:		-2.000000 0.000000 -2.000000 2.000000 2.000000 2.000000
 $Respawn:		"mp_tharow1_$r003"
 $Start nav:		"mp_tharow1_$r003"
 $Box size:		-2.000000 0.000000 -2.000000 2.000000 2.000000 2.000000
-
-$Respawn:		"mp_tharow1_$r_veh3"
-$Start nav:		"mp_tharow1_$r_veh3"
-$Box size:		-4.000000 0.000000 -4.000000 4.000000 4.000000 4.000000
-+Vehicle
-
-$Respawn:		"mp_tharow1_$r_veh4"
-$Start nav:		"mp_tharow1_$r_veh4"
-$Box size:		-4.000000 0.000000 -4.000000 4.000000 4.000000 4.000000
-+Vehicle
 
 // -------
 #Humans
