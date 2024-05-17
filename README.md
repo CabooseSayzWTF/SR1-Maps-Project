@@ -78,7 +78,7 @@ Protect Tha Pimp<br>
 3. Code Blue<br>
 4. Downtown - needs new cts files and new loadscreen image<br>
 5. El Patron - needs tested and new loadscreen image<br>
-6. Factories - needs tested and new loadscreen image<br>
+6. Factories - needs cts file and new loadscreen image<br>
 7. Freckle Bitches - needs tested<br>
 8. Highway Factory - needs tested and new loadscreen image<br>
 9. Kings Grocery - needs kewizzles cts file<br>
@@ -86,7 +86,7 @@ Protect Tha Pimp<br>
 11. Penthouse - needs cts file<br>
 12. Prices Mansion - needs tested<br>
 13. Steelmill - needs tested<br>
-14. Tha Row - needs tested and new loadscreen image<br>
+14. Tha Row - needs cts file and new loadscreen image<br>
 15. Low Rez Downtown - needs cts files<br>
 <br>
 Lobby<br>
