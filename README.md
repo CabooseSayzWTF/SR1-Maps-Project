@@ -12,19 +12,19 @@ Gangster Brawl<br>
 4. Barrio Whorehouse - CTS has been cleaned up, spawns need tested.<br>
 5. Big Picture Theater - CTS has been cleaned up, spawns need tested<br>
 6. Demolition Derby<br>
-7. Downtown - needs new cts files and new loadscreen image<br>
+7. Downtown - needs new cts files<br>
 8. Early Ultor Dome - not added yet<br>
-9. El Patron - CTS has been cleaned up, spawns need tested and new loadscreen image<br>
-10. Factories - CTS has been cleaned up, spawns need tested and new loadscreen image<br>
+9. El Patron - CTS has been cleaned up, spawns need tested<br>
+10. Factories - CTS has been cleaned up, spawns need tested<br>
 11. Freckle Bitches - CTS has been cleaned up, spawns need tested<br>
-12. Highway Factory - CTS has been cleaned up, spawns need tested and new loadscreen image<br>
+12. Highway Factory - CTS has been cleaned up, spawns need tested<br>
 13. Kings Grocery - CTS has been cleaned up, spawns need tested<br>
-14. Lopez Seafood Inc - CTS has been cleaned up, spawns need tested and new loadscreen image<br>
+14. Lopez Seafood Inc - CTS has been cleaned up, spawns need tested<br>
 15. Low Rez Downtown - needs cts files<br>
 16. Penthouse - CTS has been cleaned up, spawns need tested<br>
 17. Prices Mansion - CTS has been cleaned up, spawns need tested<br>
 18. Steelmill - CTS has been cleaned up, spawns need tested<br>
-19. Tha Row - CTS has been cleaned up, spawns need tested and new loadscreen image<br>
+19. Tha Row - CTS has been cleaned up, spawns need tested<br>
 20. Test Level (mp_balance) - not added yet<br>
 <br>
 Team Gangster Brawl<br>
@@ -34,14 +34,14 @@ Team Gangster Brawl<br>
 3. Ultor Dome<br>
 4. Downtown - needs new cts files<br>
 5. Early Ultor Dome - not added yet<br>
-6. El Patron - CTS has been cleaned up, spawns need tested (team spawns may be needed?) and new loadscreen image<br>
-7. Factories - CTS has been cleaned up, spawns need tested (team spawns may be needed?) and new loadscreen image<br>
+6. El Patron - CTS has been cleaned up, spawns need tested (team spawns may be needed?)<br>
+7. Factories - CTS has been cleaned up, spawns need tested (team spawns may be needed?)<br>
 8. Freckle Bitches - CTS has been cleaned up, spawns need tested (team spawns may be needed?)<br>
-9. Highway Factory - CTS has been cleaned up, spawns need tested (team spawns may be needed?) and new loadscreen image<br>
-10. Lopez Seafood Inc - CTS has been cleaned up, spawns need tested (team spawns may be needed?) and new loadscreen image<br>
+9. Highway Factory - CTS has been cleaned up, spawns need tested (team spawns may be needed?)<br>
+10. Lopez Seafood Inc - CTS has been cleaned up, spawns need tested (team spawns may be needed?)<br>
 11. Low Rez Downtown - needs cts file<br>
 12. Penthouse - CTS has been cleaned up, spawns need tested (team spawns may be needed?)<br>
-13. Tha Row - CTS has been cleaned up, spawns need tested (team spawns may be needed?) and new loadscreen image<br>
+13. Tha Row - CTS has been cleaned up, spawns need tested (team spawns may be needed?)<br>
 <br>
 Big Ass Chains<br>
 ----------------<br>
@@ -50,18 +50,18 @@ Big Ass Chains<br>
 3. Ultor Dome<br>
 4. Barrio Whorehouse - CTS has been cleaned up, spawns & triggers need tested<br>
 5. Big Picture Theater - CTS has been cleaned up, spawns & triggers need tested<br>
-6. El Patron - CTS has been cleaned up, spawns & triggers need tested and new loadscreen image<br>
-7. Factories - CTS has been cleaned up, spawns & triggers need tested and new loadscreen image<br>
+6. El Patron - CTS has been cleaned up, spawns & triggers need tested<br>
+7. Factories - CTS has been cleaned up, spawns & triggers need tested<br>
 8. Freckle Bitches - CTS has been cleaned up, spawns & triggers need tested<br>
-9. Highway Factory - CTS has been cleaned up, spawns & triggers need tested and new loadscreen image<br>
+9. Highway Factory - CTS has been cleaned up, spawns & triggers need tested<br>
 10. Kings Grocery - CTS has been cleaned up, spawns & triggers need tested<br>
-11. Lopez Seafood Inc - CTS has been cleaned up, spawns & triggers need tested and new loadscreen image<br>
-12. Downtown - needs cts file and new loadscreen image<br>
+11. Lopez Seafood Inc - CTS has been cleaned up, spawns & triggers need tested<br>
+12. Downtown - needs cts file<br>
 13. Low Rez Downtown - needs cts file<br>
 14. Penthouse - needs cts file<br>
 15. Prices Mansion - CTS has been cleaned up, spawns & triggers need tested<br>
 16. Steelmill - CTS has been cleaned up, spawns & triggers need tested<br>
-17. Tha Row - CTS has been cleaned up, spawns & triggers need tested and new loadscreen image<br>
+17. Tha Row - CTS has been cleaned up, spawns & triggers need tested<br>
 18. Early Ultor Dome - not added yet<br>
 <br>
 Team Big Ass Chains<br>
@@ -76,17 +76,17 @@ Protect Tha Pimp<br>
 1. Crunch Time<br>
 2. Holding Pattern<br>
 3. Code Blue<br>
-4. Downtown - needs new cts files and new loadscreen image<br>
-5. El Patron - needs tested and new loadscreen image<br>
-6. Factories - needs cts file and new loadscreen image<br>
+4. Downtown - needs new cts file<br>
+5. El Patron - needs tested<br>
+6. Factories - needs cts file<br>
 7. Freckle Bitches - needs tested<br>
-8. Highway Factory - needs tested and new loadscreen image<br>
+8. Highway Factory - needs tested<br>
 9. Kings Grocery - needs kewizzles cts file<br>
-10. Lopez Seafood Inc - needs tested and new loadscreen image<br>
+10. Lopez Seafood Inc - needs tested<br>
 11. Penthouse - needs cts file<br>
 12. Prices Mansion - needs tested<br>
 13. Steelmill - needs tested<br>
-14. Tha Row - needs cts file and new loadscreen image<br>
+14. Tha Row - needs cts file<br>
 15. Low Rez Downtown - needs cts files<br>
 <br>
 Lobby<br>
@@ -107,37 +107,38 @@ Lobby<br>
 14. Barrio Whorehouse - Will use GB cts<br>
 15. Big Picture Theater - Will use GB cts<br>
 16. Church Interior - needs made<br>
-17. Crash Landing - needs made might need new loadscreen image<br>
+17. Crash Landing - needs made<br>
 18. Demolition Derby - Should already be made?<br>
-19. Downtown - Will use GB cts and needs a new loadscreen image<br>
-20. El Patron - Will use GB cts and needs a new loadscreen image<br>
-21. Factories - Will use GB cts and needs a new loadscreen image<br>
+19. Downtown - Will use GB cts<br>
+20. El Patron - Will use GB cts<br>
+21. Factories - Will use GB cts<br>
 22. First Crib - needs made<br>
 23. Freckle Bitches - Will use GB cts<br>
-24. Highway Factory - Will use GB cts and needs a new loadscreen image<br>
+24. Highway Factory - Will use GB cts<br>
 25. Hydra Nightclub - needs made<br>
 26. Kingdom Come Records - needs made<br>
 27. Kings Grocery - Will use GB cts<br>
 28. Legal Lee 1 - needs made<br>
 29. Legal Lee 2 - needs made<br>
-30. Lopez Seafood Inc - Will use GB cts and needs a new loadscreen image<br>
+30. Lopez Seafood Inc - Will use GB cts<br>
 31. Low Rez Downtown - Will use GB cts<br>
 32. Methlab - needs made<br>
 33. On Track Nightclub - needs made<br>
 34. Open Legs Lodge - needs made<br>
-35. Parking Garage - needs made and needs a new loadscreen image<br>
+35. Parking Garage - needs made<br>
 36. Penthouse - Will use GB cts<br>
 37. Prices Mansion - Will use GB cts<br>
-38. Raykins Hotel - Might scrap, collisonless floor/door issue and adding the floor chunk causes crashes on game end sometimes.<br>
+~~38. Raykins Hotel~~ SCRAPPED<br>
+38. On Tha Rag = needs made - this replaced Raykins Whorehouse/Hotel<br>
 39. Steelmill - Will use GB cts<br>
 40. Stocks Nightclub - needs made<br>
 41. Technically Legal - needs made<br>
-42. Tha Row - Will use GB cts and needs a new loadscreen image<br>
+42. Tha Row - Will use GB cts<br>
 43. The Box Lounge - should be done but need to verify<br>
 44. Turbulence Stripclub - needs made<br>
 45. Wardrobe - just needs more spawns or leave as is?<br>
 46. Wongs Tea House - needs made<br>
-47. Yacht - needs made and needs a new loadscreen image<br>
+47. Yacht - needs made<br>
 <br>
 Original Maps in Diff Modes<br>
 ---------------------------------------- <br>
