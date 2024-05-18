@@ -128,7 +128,7 @@ Lobby<br>
 35. Parking Garage - needs made<br>
 36. Penthouse - Will use GB cts<br>
 37. Prices Mansion - Will use GB cts<br>
-~~38. Raykins Hotel~~ SCRAPPED<br>
+~~38. Raykins Hotel~~ SCRAPPED <br>
 38. On Tha Rag = needs made - this replaced Raykins Whorehouse/Hotel<br>
 39. Steelmill - Will use GB cts<br>
 40. Stocks Nightclub - needs made<br>
