@@ -1,3 +1,12 @@
+# Info For The Public<br>
+This has been a very very long project in the works and it was just never finished. Time isn't on our side like planned. <br>
+Everybody involved kept going there own ways and doing there own things. Granted I'm greatful for the help along the way.<br>
+Alot of maps were cut from this project and alot of maps were migrated to be LOBBY ONLY maps. With that said, this<br>
+is still very much unfinished. Read below for current progress. This may get updated in time but idk. So I'm making this repo public.<br>
+Maybe the community will eventually do something with this and maybe not. This project was migrated to be xenia/rgh only.<br>
+It was made to be this way mostly because well, it's hard to keep retail console compatibility without alot of sacrifices.<br>
+On another note most maps now have majority of textures and better map images to reflect these changes.<br>
+
 # Mode Info<br>
 Mark Finished Beside The Mode Type When It's Finished<br>
 The maps may need xtbl's for respawns, navs, & vehicles but unsure!, you prob have to name the xtbl's along the name of the cts for the mode.<br>
