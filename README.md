@@ -149,8 +149,8 @@ Lobby<br>
 46. Wongs Tea House - needs made<br>
 47. Yacht - needs made<br>
 <br>
-Original Maps in Diff Modes<br>
----------------------------------------- <br>
+Original Maps in Diff Modes -- This was not done yet<br>
+------------------------------------------------------ <br>
 1. Crunch Time (originates from ptp)<br>
 2. Holding Pattern (originates from ptp)<br>
 3. Code Blue (originates from ptp)<br>
